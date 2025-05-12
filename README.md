@@ -2,6 +2,8 @@
 
 # WIDS Datathon 2025 - Dataset Loading Instructions
 
+[Link to the dataset](https://drive.google.com/drive/folders/17Bl12sKJpwn3MXlXP5C4I7yqDwQKAqI1?usp=sharing)
+
 This README provides instructions for loading the WIDS Datathon 2025 dataset using from a local ZIP file.
 
 ## Loading Data from a ZIP File
