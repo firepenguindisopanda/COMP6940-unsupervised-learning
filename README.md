@@ -2,6 +2,10 @@
 
 # WIDS Datathon 2025 - Dataset Loading Instructions
 
+[WiDS Kaggle Competition Page](https://www.kaggle.com/competitions/widsdatathon2025/data)
+
+[How to get kaggle api key](https://christianjmills.com/posts/kaggle-obtain-api-key-tutorial/)
+
 [Link to the dataset](https://drive.google.com/drive/folders/17Bl12sKJpwn3MXlXP5C4I7yqDwQKAqI1?usp=sharing)
 
 This README provides instructions for loading the WIDS Datathon 2025 dataset using from a local ZIP file.
